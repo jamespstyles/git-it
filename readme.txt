@@ -1,1 +1,1 @@
-Hello, NodeSchool git-it learning
+Hello, NodeSchool git-it learning.
